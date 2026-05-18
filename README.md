@@ -6,8 +6,7 @@
 
 <div align="center">
   <p>
-    📌 Atividades desenvolvidas utilizando <strong>Arduino UNO</strong>, com foco em <strong>eletrônica</strong>,
-    <strong>automação</strong> e conceitos de <strong>Internet das Coisas (IoT)</strong>.
+    📌 Projeto da automação de um <strong>semáforo de duas vias</strong> utilizando <strong>Arduino UNO</strong>, <strong>eletrônica básica</strong> e <strong>programação</strong>.
   </p>
 </div>
 
@@ -75,7 +74,7 @@
 </div>
 
 <p align="center">
-<a href="#">Circuito Semáforo - Pedro Henrique</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Pedro%20Henrique.png">Circuito Semáforo - Pedro Henrique</a><br>
 <a href="#">Circuito Semáforo - Luana Camargo</a><br>
 <a href="#">Circuito Semáforo - Gabriel Pereira</a><br>
 <a href="#">Circuito Semáforo - Gabriel Araújo</a><br>
@@ -88,7 +87,7 @@
 </div>
 
 <p align="center">
-<a href="#">Tinkercad - Pedro Henrique</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/sem_foro_de_duas_vias1-pedro_henrique.ino">Tinkercad - Pedro Henrique</a><br>
 <a href="#">Tinkercad - Luana Camargo</a><br>
 <a href="#">Tinkercad - Gabriel Pereira</a><br>
 <a href="#">Tinkercad - Gabriel Araújo</a><br>
