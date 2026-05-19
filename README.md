@@ -92,5 +92,5 @@
 <a href="#">Tinkercad - Gabriel Pereira</a><br>
 <a href="https://www.tinkercad.com/things/iy8Ng7Wr1Ay-semaforo-de-duas-vias?sharecode=7yJMzGKuw8FMifz0JsIby9lAzom6xVKLo_70daSDMpk">Tinkercad - Gabriel Torres</a><br>
 <a href="#">Tinkercad - Caline Myrella</a><br>
-<a href="#">Tinkercad - Vinycius Lopes</a>
+<a href="https://www.tinkercad.com/things/lvUglEBf0Gf-fabulous-bombul-jaagub/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lOJ1YViFuV_vFlTUmdypR7ejSi-niwwcJ914-scf898">Tinkercad - Vinycius Lopes</a>
 </p>
