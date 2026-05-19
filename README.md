@@ -75,11 +75,11 @@
 
 <p align="center">
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Pedro%20Henrique.png">Circuito Semáforo - Pedro Henrique</a><br>
-<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Luana%20Benati.png">Circuito Semáforo - Luana Camargo</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Luana%20Camargo.png">Circuito Semáforo - Luana Camargo</a><br>
 <a href="#">Circuito Semáforo - Gabriel Pereira</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Gabriel%20Torres.png">Circuito Semáforo - Gabriel Torres</a><br>
-<a href="#">Circuito Semáforo - Caline Myrella</a><br>
-<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1faros%20-%20Vinycius%20Lopes.png">Circuito Semáforo - Vinycius Lopes</a>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Caline%20Myrella.png">Circuito Semáforo - Caline Myrella</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Vinycius%20Lopes.png">Circuito Semáforo - Vinycius Lopes</a>
 </p>
 
 <div align="center">
@@ -101,9 +101,9 @@
 
 <p align="center">
 <a href="https://www.tinkercad.com/things/9S9Fbs3AfDy-semaforo-de-duas-vias?sharecode=IJLFuYluPaSSKleSzCsU623pG0Ipb02lRVT5BRVjlRw">Tinkercad - Pedro Henrique</a><br>
-<a href="#">Tinkercad - Luana Camargo</a><br>
-<a href="https://www.tinkercad.com/things/elwEp89Pi8R-semafaro-de-duas-vias-com-arduino?sharecode=1LJqB8QlAboCLRR74UOJRjhF8bS6VxU20Ptm0kdY08Y">Tinkercad - Gabriel Pereira</a><br>
+<a href="https://www.tinkercad.com/things/elwEp89Pi8R-semafaro-de-duas-vias-com-arduino?sharecode=1LJqB8QlAboCLRR74UOJRjhF8bS6VxU20Ptm0kdY08Y">Tinkercad - Luana Camargo</a><br>
+<a href="#">Tinkercad - Gabriel Pereira</a><br>
 <a href="https://www.tinkercad.com/things/iy8Ng7Wr1Ay-semaforo-de-duas-vias?sharecode=7yJMzGKuw8FMifz0JsIby9lAzom6xVKLo_70daSDMpk">Tinkercad - Gabriel Torres</a><br>
-<a href="https://www.tinkercad.com/things/h9GsLHTRFZl-mighty-jaiks-hillar">Tinkercad - Caline Myrella</a><br>
+<a href="#">Tinkercad - Caline Myrella</a><br>
 <a href="https://www.tinkercad.com/things/lvUglEBf0Gf-fabulous-bombul-jaagub/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lOJ1YViFuV_vFlTUmdypR7ejSi-niwwcJ914-scf898">Tinkercad - Vinycius Lopes</a>
 </p>
