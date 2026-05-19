@@ -44,12 +44,12 @@
 </div>
 
 <div align="center">
-  <p>👨🏼‍💻 Pedro Henrique</p>
-  <p>👩‍💻 Luana Camargo</p>
-  <p>👨🏻‍💻 Gabriel Pereira</p>
-  <p>🧑🏻‍💻 Gabriel Araújo</p>
-  <p>👩🏽‍💻 Caline Myrella</p>
-  <p>🧑‍💻 Vinycius Lopes</p>
+  <p>👨🏼‍💻Caline Myrella Lorena N°03</p>
+  <p>👨🏼‍💻 Gabriel de Araujo Torres Nº08</p>
+  <p>👨🏻‍💻 Gabriel Perera Dias Nº10</p>
+  <p>🧑🏻‍💻 Luana de Camargo Benati Nº15</p>
+  <p>👩🏽‍💻 Pedro Henrique Prandwiski Borges Nº22</p>
+  <p>🧑‍💻 Vinycius Lopes Monteiro da Silva N°30</p>
 </div>
 
 ---
@@ -79,7 +79,7 @@
 <a href="#">Circuito Semáforo - Gabriel Pereira</a><br>
 <a href="#">Circuito Semáforo - Gabriel Torres</a><br>
 <a href="#">Circuito Semáforo - Caline Myrella</a><br>
-<a href="#">Circuito Semáforo - Vinycius Lopes</a>
+<a href="#">Circuito Semáforo - Vinycius Lopes</a><br>
 </p>
 
 <div align="center">
@@ -92,5 +92,5 @@
 <a href="#">Tinkercad - Gabriel Pereira</a><br>
 <a href="https://www.tinkercad.com/things/iy8Ng7Wr1Ay-semaforo-de-duas-vias?sharecode=7yJMzGKuw8FMifz0JsIby9lAzom6xVKLo_70daSDMpk">Tinkercad - Gabriel Torres</a><br>
 <a href="#">Tinkercad - Caline Myrella</a><br>
-<a href="https://www.tinkercad.com/things/lvUglEBf0Gf-fabulous-bombul-jaagub/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lOJ1YViFuV_vFlTUmdypR7ejSi-niwwcJ914-scf898">Tinkercad - Vinycius Lopes</a>
+<a href="https://www.tinkercad.com/things/lvUglEBf0Gf-fabulous-bombul-jaagub/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lOJ1YViFuV_vFlTUmdypR7ejSi-niwwcJ914-scf898">Tinkercad - Vinycius Lopes Monteiro da Silva</a>
 </p>
