@@ -89,10 +89,10 @@
 <p align="center">
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Pedro%20Henrique.ino">Código Fonte Comentado - Pedro Henrique</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Luana%20Camargo.ino">Código Fonte Comentado - Luana Camargo</a><br>
-<a href="#">Código Fonte Comentado- Gabriel Pereira</a><br>
-<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Gabriel%20Torres.ino">Circuito Semáforo - Gabriel Torres</a><br>
-<a href="#">Circuito Semáforo - Caline Myrella</a><br>
-<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Vinycius%20Lopes.ino">Circuito Semáforo - Vinycius Lopes</a>
+<a href="#">Código Fonte Comentado - Gabriel Pereira</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Gabriel%20Torres.ino">Código Fonte Comentado - Gabriel Torres</a><br>
+<a href="#">Código Fonte Comentado - Caline Myrella</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Vinycius%20Lopes.ino">Código Fonte Comentado - Vinycius Lopes</a>
 </p>
 
 <div align="center">
