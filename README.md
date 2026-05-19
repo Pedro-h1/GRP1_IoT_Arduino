@@ -102,7 +102,7 @@
 <p align="center">
 <a href="https://www.tinkercad.com/things/9S9Fbs3AfDy-semaforo-de-duas-vias?sharecode=IJLFuYluPaSSKleSzCsU623pG0Ipb02lRVT5BRVjlRw">Tinkercad - Pedro Henrique</a><br>
 <a href="#">Tinkercad - Luana Camargo</a><br>
-<a href="#">Tinkercad - Gabriel Pereira</a><br>
+<a href="https://www.tinkercad.com/things/elwEp89Pi8R-semafaro-de-duas-vias-com-arduino?sharecode=1LJqB8QlAboCLRR74UOJRjhF8bS6VxU20Ptm0kdY08Y">Tinkercad - Gabriel Pereira</a><br>
 <a href="https://www.tinkercad.com/things/iy8Ng7Wr1Ay-semaforo-de-duas-vias?sharecode=7yJMzGKuw8FMifz0JsIby9lAzom6xVKLo_70daSDMpk">Tinkercad - Gabriel Torres</a><br>
 <a href="https://www.tinkercad.com/things/h9GsLHTRFZl-mighty-jaiks-hillar">Tinkercad - Caline Myrella</a><br>
 <a href="https://www.tinkercad.com/things/lvUglEBf0Gf-fabulous-bombul-jaagub/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lOJ1YViFuV_vFlTUmdypR7ejSi-niwwcJ914-scf898">Tinkercad - Vinycius Lopes</a>
