@@ -1,5 +1,5 @@
 // =====================================================
-// PROJETO: SEMÁFORO DE DUAS VIAS COM ARDUINO (CORRIGIDO)
+// PROJETO: SEMÁFORO DE DUAS VIAS COM ARDUINO
 // Aula 28 - IOT | SENAI "A. Jacob Lafer"
 // =====================================================
 
