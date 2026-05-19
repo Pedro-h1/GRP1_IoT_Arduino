@@ -75,11 +75,24 @@
 
 <p align="center">
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Pedro%20Henrique.png">Circuito Semáforo - Pedro Henrique</a><br>
-<a href="#">Circuito Semáforo - Luana Camargo</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Luana%20Benati.png">Circuito Semáforo - Luana Camargo</a><br>
 <a href="#">Circuito Semáforo - Gabriel Pereira</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Gabriel%20Torres.png">Circuito Semáforo - Gabriel Torres</a><br>
 <a href="#">Circuito Semáforo - Caline Myrella</a><br>
-<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1faros%20-%20Vinycius%20Lopes%20Monteiro%20da%20Silva.png">Circuito Semáforo - Vinycius Lopes</a>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1faros%20-%20Vinycius%20Lopes.png">Circuito Semáforo - Vinycius Lopes</a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=8000&pause=1500&color=bd93f9&center=true&vCenter=true&width=500&lines=💻+Código+Fonte+Utilizado" />
+</div>
+
+<p align="center">
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Pedro%20Henrique.ino">Código Fonte Comentado - Pedro Henrique</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Luana%20Camargo.ino">Código Fonte Comentado - Luana Camargo</a><br>
+<a href="#">Código Fonte Comentado- Gabriel Pereira</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Gabriel%20Torres.ino">Circuito Semáforo - Gabriel Torres</a><br>
+<a href="#">Circuito Semáforo - Caline Myrella</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Vinycius%20Lopes.ino">Circuito Semáforo - Vinycius Lopes</a>
 </p>
 
 <div align="center">
