@@ -1,6 +1,7 @@
 // =====================================================
 // PROJETO: SEMÁFORO DE DUAS VIAS COM ARDUINO 
-// Aula 28 - IOT | SENAI "A. Jacob Lafer"
+// Aula 28 - IOT | Grupo 1 | SENAI "A. Jacob Lafer"
+// Autor: Gabriel de Araujo Torres
 // =====================================================
 
 // CONFIGURAÇÃO DOS PINOS - VIA 1
