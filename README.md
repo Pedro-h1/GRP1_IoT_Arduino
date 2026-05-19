@@ -83,7 +83,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=8000&pause=1500&color=bd93f9&center=true&vCenter=true&width=500&lines=💻+Código+Fonte+Utilizado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=8000&pause=1500&color=bd93f9&center=true&vCenter=true&width=500&lines=💻+Códigos+Fonte+Comentados" />
 </div>
 
 <p align="center">
