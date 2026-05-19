@@ -46,7 +46,7 @@
 <div align="center">
   <p>👨🏼‍💻 Pedro Henrique</p>
   <p>👩‍💻 Luana Camargo</p>
-  <p>👨🏻‍💻 Gabriel Pereira</p>
+  <p>👨🏻‍💻 Gabriel Dias</p>
   <p>🧑🏻‍💻 Gabriel Torres</p>
   <p>👩🏽‍💻 Caline Myrella</p>
   <p>🧑‍💻 Vinycius Lopes</p>
@@ -76,7 +76,7 @@
 <p align="center">
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Pedro%20Henrique.png">Circuito Semáforo - Pedro Henrique</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Luana%20Camargo.png">Circuito Semáforo - Luana Camargo</a><br>
-<a href="#">Circuito Semáforo - Gabriel Pereira</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Gabriel%20Dias.png">Circuito Semáforo - Gabriel Dias</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Gabriel%20Torres.png">Circuito Semáforo - Gabriel Torres</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Caline%20Myrella.png">Circuito Semáforo - Caline Myrella</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Vinycius%20Lopes.png">Circuito Semáforo - Vinycius Lopes</a>
@@ -89,7 +89,7 @@
 <p align="center">
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Pedro%20Henrique.ino">Código Fonte Comentado - Pedro Henrique</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Luana%20Camargo.ino">Código Fonte Comentado - Luana Camargo</a><br>
-<a href="#">Código Fonte Comentado - Gabriel Pereira</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Gabriel%20Dias.ino">Código Fonte Comentado - Gabriel Dias</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Gabriel%20Torres.ino">Código Fonte Comentado - Gabriel Torres</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Caline%20Myrella.ino">Código Fonte Comentado - Caline Myrella</a><br>
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Vinycius%20Lopes.ino">Código Fonte Comentado - Vinycius Lopes</a>
@@ -102,7 +102,7 @@
 <p align="center">
 <a href="https://www.tinkercad.com/things/9S9Fbs3AfDy-semaforo-de-duas-vias?sharecode=IJLFuYluPaSSKleSzCsU623pG0Ipb02lRVT5BRVjlRw">Tinkercad - Pedro Henrique</a><br>
 <a href="https://www.tinkercad.com/things/elwEp89Pi8R-semafaro-de-duas-vias-com-arduino?sharecode=1LJqB8QlAboCLRR74UOJRjhF8bS6VxU20Ptm0kdY08Y">Tinkercad - Luana Camargo</a><br>
-<a href="#">Tinkercad - Gabriel Pereira</a><br>
+<a href="https://www.tinkercad.com/things/kriPTgY8GZF-cemafro/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=k6VO6wFyJqNZSciD14tDznUvDyiS9koKXNrceGJd0Ms">Tinkercad - Gabriel Dias</a><br>
 <a href="https://www.tinkercad.com/things/iy8Ng7Wr1Ay-semaforo-de-duas-vias?sharecode=7yJMzGKuw8FMifz0JsIby9lAzom6xVKLo_70daSDMpk">Tinkercad - Gabriel Torres</a><br>
 <a href="https://www.tinkercad.com/things/h9GsLHTRFZl-mighty-jaiks-hillar">Tinkercad - Caline Myrella</a><br>
 <a href="https://www.tinkercad.com/things/lvUglEBf0Gf-fabulous-bombul-jaagub/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lOJ1YViFuV_vFlTUmdypR7ejSi-niwwcJ914-scf898">Tinkercad - Vinycius Lopes</a>
