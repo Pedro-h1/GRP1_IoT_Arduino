@@ -44,12 +44,12 @@
 </div>
 
 <div align="center">
-  <p>👨🏼‍💻Caline Myrella Lorena N°03</p>
-  <p>👨🏼‍💻 Gabriel de Araujo Torres Nº08</p>
-  <p>👨🏻‍💻 Gabriel Perera Dias Nº10</p>
-  <p>🧑🏻‍💻 Luana de Camargo Benati Nº15</p>
-  <p>👩🏽‍💻 Pedro Henrique Prandwiski Borges Nº22</p>
-  <p>🧑‍💻 Vinycius Lopes Monteiro da Silva N°30</p>
+  <p>👨🏼‍💻 Pedro Henrique</p>
+  <p>👩‍💻 Luana Camargo</p>
+  <p>👨🏻‍💻 Gabriel Pereira</p>
+  <p>🧑🏻‍💻 Gabriel Torres</p>
+  <p>👩🏽‍💻 Caline Myrella</p>
+  <p>🧑‍💻 Vinycius Lopes</p>
 </div>
 
 ---
@@ -77,9 +77,9 @@
 <a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Pedro%20Henrique.png">Circuito Semáforo - Pedro Henrique</a><br>
 <a href="#">Circuito Semáforo - Luana Camargo</a><br>
 <a href="#">Circuito Semáforo - Gabriel Pereira</a><br>
-<a href="#">Circuito Semáforo - Gabriel Torres</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1foros%20-%20Gabriel%20Torres.png">Circuito Semáforo - Gabriel Torres</a><br>
 <a href="#">Circuito Semáforo - Caline Myrella</a><br>
-<a href="#">Circuito Semáforo - Vinycius Lopes</a><br>
+<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/Circuito%20Sem%C3%A1faros%20-%20Vinycius%20Lopes%20Monteiro%20da%20Silva.png">Circuito Semáforo - Vinycius Lopes</a>
 </p>
 
 <div align="center">
@@ -87,7 +87,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/sem_foro_de_duas_vias1-pedro_henrique.ino">Tinkercad - Pedro Henrique</a><br>
+<a href="https://www.tinkercad.com/things/9S9Fbs3AfDy-semaforo-de-duas-vias?sharecode=IJLFuYluPaSSKleSzCsU623pG0Ipb02lRVT5BRVjlRw">Tinkercad - Pedro Henrique</a><br>
 <a href="#">Tinkercad - Luana Camargo</a><br>
 <a href="#">Tinkercad - Gabriel Pereira</a><br>
 <a href="https://www.tinkercad.com/things/iy8Ng7Wr1Ay-semaforo-de-duas-vias?sharecode=7yJMzGKuw8FMifz0JsIby9lAzom6xVKLo_70daSDMpk">Tinkercad - Gabriel Torres</a><br>
