@@ -1,6 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=00979D&text=🤖+GRP1_IoT_Arduino&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🌐+Projetos+de+IoT+e+Eletrônica&descAlignY=58&descSize=16&animation=fadeIn" width="100%" /></div>
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=📘+Sobre+o+Projeto" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=📘+Sobre+o+Projeto" /></div>
 
 <div align="center">
   <p>
@@ -8,9 +8,9 @@
   </p>
 </div>
 
-#
+---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=⚙️+Tecnologias+e+Componentes" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=⚙️+Tecnologias+e+Componentes" /></div>
 
 <div align="center">
   <p>🔌 Arduino UNO</p>
@@ -20,9 +20,9 @@
   <p>⚡ Circuitos eletrônicos (LEDs e Resistores)</p>
 </div>
 
-#
+---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=🧠+Objetivo+da+Atividade" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=🧠+Objetivo+da+Atividade" /></div>
 
 <div align="center">
   <p>
@@ -31,9 +31,9 @@
   </p>
 </div>
 
-#
+---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=👨🏼‍💻+Integrantes+da+Atividade" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=👨🏼‍💻+Integrantes+da+Atividade" /></div>
 
 <div align="center">
   <p>👨🏼‍💻 Pedro Henrique</p>
@@ -44,9 +44,9 @@
   <p>🧑‍💻 Vinycius Lopes</p>
 </div>
 
-#
+---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=📚+Atividades+Feitas+na+Plataforma" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=📚+Atividades+Feitas+na+Plataforma" /></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=700&lines=🤖🚦+Projeto+-+Sem%C3%A1foro+de+Duas+Vias" />
